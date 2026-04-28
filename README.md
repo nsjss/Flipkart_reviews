@@ -75,7 +75,7 @@ This project automates that entire process by extracting and analyzing real user
 ## 🧪 How to Run
 
 ```bash
-git clone https://github.com/nsjss/flipkart-phone-analysis.git
+git clone https://github.com/nsjss/Flipkart_reviews.git
 cd flipkart-phone-analysis
 
 pip install -r requirements.txt
